@@ -1,6 +1,6 @@
 package Control_FLow_Level2;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Level2_014 {
     public static void main(String[] args) {
